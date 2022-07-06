@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Operation: forget elements
+   Collection: d:\360movedata\users\yang\desktop\smbk\(((backup of (((backup of (((backup of cedrick created on 2022-07-01 16-50-05))) created on 2022-07-04 11-23-47))) created on 2022-07-04 15-40-59)))
+   Date: Tuesday, July 5, 2022, 4:07:50 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+
+Process completed at 4:07:50 PM in 00:00:00 sec (Tuesday, July 5, 2022)
+
+NO ERRORS (Operation: forget elements)
+
+____________________________________________________________
